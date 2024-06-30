@@ -1,6 +1,7 @@
 # B-Salahkar
 
 B-Salahkar: Your AI-Powered Financial Copilot
+
 B-Salahkar is a revolutionary financial planning solution that leverages the power of generative AI to empower you to take control of your financial future. Imagine a user-friendly platform that:
 
 Analyzes your financial data to understand your spending habits, income sources, and financial goals.
